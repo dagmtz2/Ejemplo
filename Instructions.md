@@ -1,3 +1,5 @@
+# Instrucciones para sincronizar un repositorio de Git con Github
+
 1. Crear una cuenta en github.com
 2. Crear un nuevo repositorio
     1. Seleccionar que sea público
@@ -32,7 +34,7 @@
         cd repositorio
 
 
-        
+
 
 
 
